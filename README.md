@@ -1,4 +1,4 @@
-# 🧬 Abby's Lab
+# ⚗️ Abby's Lab
 
 This is a pseudonymous space for building, testing, and releasing tools — fast and without ceremony.
 
