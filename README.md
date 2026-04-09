@@ -1,7 +1,3 @@
 # ⚗️ Abby's Lab
 
-This is a pseudonymous space for building, testing, and releasing tools.
-
-Some projects here:
-- Were built quickly, often with help from AI
-- May be rough
+Pseudonymous space for tools and experiments. Built fast, often with AI, usually works.
